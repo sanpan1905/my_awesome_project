@@ -1,1 +1,1 @@
-Welcome to jenkins...!!!!
+echo "Welcome to jenkins...!!!!"
