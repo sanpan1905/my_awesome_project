@@ -1,1 +1,2 @@
-echo "Tu acha hai...!!!"
+echo -e "Tu acha hai...!!!"
+exit 2
