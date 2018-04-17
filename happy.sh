@@ -1,1 +1,1 @@
-Tu acha hai...!!!
+echo "Tu acha hai...!!!"
